@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">helloworld</string>
+    <string name="welcome">Bienvenue !!...</string>
+    <string name="fistname">Nom</string>
+    <string name="secondname">Prénom</string>
+    <string name="titre" />
+    <string name="desclogo" />
+    <string name="nom" />
+    <string name="prenom" />
+</resources>
